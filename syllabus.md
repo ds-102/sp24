@@ -11,6 +11,9 @@ description: The course syllabus
 {: .warning }
 This page is currently under construction, and is subject to change until this warning has been removed.
 
+{: .highlight }
+This page is currently under construction, and is subject to change until this warning has been removed.
+
 
 ## Table of Contents
 {: .no_toc .text-delta }
