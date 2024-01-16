@@ -19,15 +19,15 @@ Jump to:
 
 | Semester | Midterm (1) | Midterm 2 | Final |
 | -- | -- | -- | -- |
-| Fall 2023 | [Exam](assets/exams/mt1/fa23_mt1.pdf) ([Solutions](assets/exams/mt1/fa23_mt1_sol.pdf)) |[Exam](assets/exams/mt2/fa23_mt2.pdf) ([Solutions](https://drive.google.com/file/d/1A4QUNqItI31id6Zl7nUfC-FZybTzXbm1/view?usp=sharing)) | |
-| Spring 2023 | [Exam](assets/exams/mt1/sp23_mt1.pdf) [(Solutions)](assets/exams/mt1/sp23_mt1_sol.pdf) | [Exam](assets/exams/mt2/sp23_mt2.pdf) [(Solutions)](assets/exams/mt2/sp23_mt2_sol.pdf) | |
-| Fall 2022 | [Exam](assets/exams/mt1/fa22_mt1.pdf) [(Solutions)](assets/exams/mt1/fa22_mt1_sol.pdf) | [Exam](assets/exams/mt2/fa22_mt2.pdf) [(Solutions)](assets/exams/mt2/fa22_mt2_sol.pdf) |  |
-| Spring 2022 | [Exam](assets/exams/mt1/sp22_mt1.pdf) [(Solutions)](assets/exams/mt1/sp22_mt1_sol.pdf) | [Exam](assets/exams/mt2/sp22_mt2.pdf) [(Solutions)](assets/exams/mt2/sp22_mt2_sol.pdf) |  |
-| Fall 2021 | [Exam](assets/exams/mt1/fa21_mt1.pdf) [(Solutions)](assets/exams/mt1/fa21_mt1_sol.pdf) | [Exam](assets/exams/mt2/fa21_mt2.pdf) [(Solutions)](assets/exams/mt2/fa21_mt2_sol.pdf) |  |
-| Spring 2021 | [Exam](assets/exams/mt1/sp21_mt1.pdf) [(Solutions)](assets/exams/mt1/sp21_mt1_sol.pdf) | [Exam](assets/exams/mt2/sp21_mt2.pdf) [(Solutions)](assets/exams/mt2/sp21_mt2_sol.pdf) |  |
-| Fall 2020 | [Exam](assets/exams/mt1/fa20_mt.pdf) [(Solutions)](assets/exams/mt1/fa20_mt_sol.pdf) |  | [Exam](assets/exams/final/fa20_final.pdf) [(Solutions)](assets/exams/final/fa20_final_sol.pdf) |
-| Spring 2020 | [Exam](assets/exams/mt1/sp20_mt.pdf) [(Solutions)](assets/exams/mt1/sp20_mt_sol.pdf) | | |
-| Fall 2019 | [Exam](assets/exams/mt1/fa19_mt.pdf) [(Solutions)](assets/exams/mt1/fa19_mt_sol.pdf) |  | [Exam](assets/exams/final/fa19_final.pdf) [(Solutions)](assets/exams/final/fa19_final_sol.pdf) |
+| Fall 2023 | [Exam](assets/exams/midterm_1/fa23_mt1.pdf) ([Solutions](assets/exams/midterm_1/fa23_mt1_sol.pdf)) |[Exam](assets/exams/midterm_2/fa23_mt2.pdf) ([Solutions](https://drive.google.com/file/d/1A4QUNqItI31id6Zl7nUfC-FZybTzXbm1/view?usp=sharing)) | |
+| Spring 2023 | [Exam](assets/exams/midterm_1/sp23_mt1.pdf) [(Solutions)](assets/exams/midterm_1/sp23_mt1_sol.pdf) | [Exam](assets/exams/midterm_2/sp23_mt2.pdf) [(Solutions)](assets/exams/midterm_2/sp23_mt2_sol.pdf) | |
+| Fall 2022 | [Exam](assets/exams/midterm_1/fa22_mt1.pdf) [(Solutions)](assets/exams/midterm_1/fa22_mt1_sol.pdf) | [Exam](assets/exams/midterm_2/fa22_mt2.pdf) [(Solutions)](assets/exams/midterm_2/fa22_mt2_sol.pdf) |  |
+| Spring 2022 | [Exam](assets/exams/midterm_1/sp22_mt1.pdf) [(Solutions)](assets/exams/midterm_1/sp22_mt1_sol.pdf) | [Exam](assets/exams/midterm_2/sp22_mt2.pdf) [(Solutions)](assets/exams/midterm_2/sp22_mt2_sol.pdf) |  |
+| Fall 2021 | [Exam](assets/exams/midterm_1/fa21_mt1.pdf) [(Solutions)](assets/exams/midterm_1/fa21_mt1_sol.pdf) | [Exam](assets/exams/midterm_2/fa21_mt2.pdf) [(Solutions)](assets/exams/midterm_2/fa21_mt2_sol.pdf) |  |
+| Spring 2021 | [Exam](assets/exams/midterm_1/sp21_mt1.pdf) [(Solutions)](assets/exams/midterm_1/sp21_mt1_sol.pdf) | [Exam](assets/exams/midterm_2/sp21_mt2.pdf) [(Solutions)](assets/exams/midterm_2/sp21_mt2_sol.pdf) |  |
+| Fall 2020 | [Exam](assets/exams/midterm_1/fa20_mt.pdf) [(Solutions)](assets/exams/midterm_1/fa20_mt_sol.pdf) |  | [Exam](assets/exams/final/fa20_final.pdf) [(Solutions)](assets/exams/final/fa20_final_sol.pdf) |
+| Spring 2020 | [Exam](assets/exams/midterm_1/sp20_mt.pdf) [(Solutions)](assets/exams/midterm_1/sp20_mt_sol.pdf) | | |
+| Fall 2019 | [Exam](assets/exams/midterm_1/fa19_mt.pdf) [(Solutions)](assets/exams/midterm_1/fa19_mt_sol.pdf) |  | [Exam](assets/exams/final/fa19_final.pdf) [(Solutions)](assets/exams/final/fa19_final_sol.pdf) |
 
 
 Here is a collection of resources that may help you learn more about various concepts and skills covered in the class.  Learning by reading is a key part of being a well-rounded data scientist.  We will not assign mandatory reading but instead encourage you to look at these materials.
