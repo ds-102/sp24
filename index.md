@@ -20,7 +20,6 @@ UC Berkeley, Spring 2024
   </div>
 </div>
 
-{{ site.current_week }}
 {% assign announcement = site.announcements | where: 'week', site.current_week %}
 {{ announcement }}
 
