@@ -20,12 +20,12 @@ UC Berkeley, Spring 2024
   </div>
 </div>
 
-{% assign announcement = site.announcements | last %}
+{% assign announcement = site.announcements | where: 'week', {{ site.current_week }} %}
 {{ announcement }}
 
 
 ## Schedule
-[**Jump to current week**](#week-{{site.current_week}}){: .btn }
+[**Jump to current week**](#week-{{ site.current_week }}){: .btn }
 
 {: .warning }
 The calendar is currently under construction, and is subject to change until this warning has been removed.
