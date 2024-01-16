@@ -1,5 +1,6 @@
 ---
 title: 'Week 1: Binary Decisions'
+ref: 'week-1'
 ---
 
 Jan 16

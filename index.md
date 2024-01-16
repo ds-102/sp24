@@ -28,7 +28,6 @@ UC Berkeley, Spring 2024
 {{ announcement }}
 
 
-<a name="schedule"></a>
 ## Schedule
 [**Jump to current week**](#{{page.current_week}}){: .btn }
 

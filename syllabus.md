@@ -36,7 +36,7 @@ While we are working to make this class widely accessible, we currently require 
 
 1. **Math**: Math 54, Math 56, Math 110, both EE 16A and EE 16B, STAT 89a, or Physics 89. We will need some basic concepts like linear operators, eigenvectors, derivatives, and integrals to enable statistical inference and derive new prediction algorithms.
 
-Please consult the [Resources](/resources) page for additional resources for reviewing prerequisite material.
+Please consult the [Resources]({{ site.baseurl }}/resources) page for additional resources for reviewing prerequisite material.
 
 
 ## Course Components
