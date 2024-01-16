@@ -8,6 +8,9 @@ description: The course syllabus
 # Syllabus
 {:.no_toc}
 
+{: .warning }
+This page is currently under construction, and is subject to change until this warning has been removed.
+
 
 ## Table of Contents
 {: .no_toc .text-delta }

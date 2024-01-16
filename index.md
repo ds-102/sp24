@@ -6,7 +6,7 @@ description: A week-to-week description of the content covered in the course.
 course:
   edstem: 
   faq: 
-current_week: week-17-finals-week
+current_week: week-1-binary-decisions
 ---
 
 # Data 102: Data, Inference, and Decisions
@@ -31,6 +31,8 @@ UC Berkeley, Spring 2024
 <a name="schedule"></a>
 ## Schedule
 [**Jump to current week**](#{{page.current_week}}){: .btn }
+{: .warning }
+The calendar is currently under construction, and is subject to change until this warning has been removed.
 
 {% for module in site.modules %}
 {{ module }}
