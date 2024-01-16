@@ -31,6 +31,7 @@ UC Berkeley, Spring 2024
 <a name="schedule"></a>
 ## Schedule
 [**Jump to current week**](#{{page.current_week}}){: .btn }
+
 {: .warning }
 The calendar is currently under construction, and is subject to change until this warning has been removed.
 
