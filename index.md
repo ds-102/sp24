@@ -3,10 +3,6 @@ layout: page
 title: Home
 nav_order: 1
 description: A week-to-week description of the content covered in the course.
-course:
-  edstem: 
-  faq: 
-current_week: week-1-binary-decisions
 ---
 
 # Data 102: Data, Inference, and Decisions
@@ -29,7 +25,7 @@ UC Berkeley, Spring 2024
 
 
 ## Schedule
-[**Jump to current week**](#{{page.current_week}}){: .btn }
+[**Jump to current week**](#week-{{site.current_week}}){: .btn }
 
 {: .warning }
 The calendar is currently under construction, and is subject to change until this warning has been removed.
