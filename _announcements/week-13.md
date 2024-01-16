@@ -1,7 +1,7 @@
 ---
 title: Week 13
 week: 13
-date: 2023-11-13
+date: 2024-04-08
 ---
 
 - Midterm 2 is Tuesday, Nov 14th. You should've received your seating assignment via email.

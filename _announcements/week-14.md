@@ -1,7 +1,7 @@
 ---
 title: Week 14
 week: 14
-date: 2023-11-20
+date: 2024-04-15
 ---
 
 - Feedbacks for project proposals have been released on Gradescope. Check the comments in your submission and [#494](https://edstem.org/us/courses/42657/discussion/3907164).

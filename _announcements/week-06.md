@@ -1,7 +1,7 @@
 ---
 title: Week 6
 week: 6
-date: 2023-09-25
+date: 2024-02-19
 ---
 
 - Lab 4 is released and due Wednesday 11:59PM.

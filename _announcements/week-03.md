@@ -1,7 +1,7 @@
 ---
 title: Week 3
 week: 3
-date: 2023-09-03
+date: 2024-01-29
 ---
 
 - Monday is Labor Day: no class activity (lab sections, office hours). As a result, Lab 1 due date is extended to Friday, Sep 8.

@@ -1,7 +1,7 @@
 ---
 title: Week 15
 week: 15
-date: 2023-11-27
+date: 2024-04-22
 ---
 
 - Midterm 2 grades are released. Regrade requests are due Sunday, Dec 3rd.

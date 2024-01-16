@@ -1,7 +1,7 @@
 ---
 title: Week 4
 week: 4
-date: 2023-09-11
+date: 2024-02-05
 ---
 
 - Homework 1 is due this Friday at **5PM**. 

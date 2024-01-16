@@ -1,7 +1,7 @@
 ---
 title: Week 9
 week: 9
-date: 2023-10-16
+date: 2024-03-11
 ---
 
 - Midterm 1 regrade is due Wednesday, Oct 18th 11:59PM.

@@ -1,7 +1,7 @@
 ---
 title: Week 7
 week: 7
-date: 2023-10-03
+date: 2024-02-26
 ---
 
 - Midterm 1 is this Thursday 7-9PM.

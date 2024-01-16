@@ -1,7 +1,7 @@
 ---
 title: Week 10
 week: 10
-date: 2023-10-23
+date: 2024-03-18
 ---
 
 - Lab 8 is released and due Wednesday, Oct 25th at 11:59PM.

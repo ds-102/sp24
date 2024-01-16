@@ -1,7 +1,7 @@
 ---
 title: Week 12
 week: 12
-date: 2023-11-06
+date: 2024-04-01
 ---
 
 - Lab 10 is due Wednesday, Nov 8th 11:59PM.

@@ -1,7 +1,7 @@
 ---
 title: Week 5
 week: 5
-date: 2023-09-18
+date: 2024-02-12
 ---
 
 - Lab 3 is released and due Wednesday 11:59PM.
