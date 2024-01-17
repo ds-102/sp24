@@ -3,7 +3,7 @@ title: 'Week 14: Regression and Privacy'
 ---
 
 Apr 16
-: **Lecture 23**{: .label .label-lecture } High-Dimensional Regression
+: **Midterm**{: .label .label-exam } Midterm II
 
 Apr 18
-: **Lecture 24**{: .label .label-lecture } Differential Privacy
+: **Lecture**{: .label .label-lecture } Differential Privacy

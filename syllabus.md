@@ -8,10 +8,6 @@ description: The course syllabus
 # Syllabus
 {:.no_toc}
 
-{: .warning }
-This page is currently under construction, and is subject to change until this warning has been removed.
-
-
 ## Table of Contents
 {: .no_toc .text-delta }
 
@@ -73,8 +69,8 @@ Vitamins are weekly short Gradescope assignments to check that you are keeping u
 
 There will be two midterms in this class:
 
-- Midterm I on **February 27th**, 7PM - 9PM 
-- Midterm II on **April 11th**, 7PM - 9PM 
+- Midterm I on **February 27th**, 7 PM - 9 PM 
+- Midterm II on **April 16th**, 7 PM - 9 PM 
 
 There will **not** be a final exam. 
 
