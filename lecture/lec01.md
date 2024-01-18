@@ -8,7 +8,7 @@ nav_exclude: true
 
 Presented by Ramesh Sridharan and Alexandar Strang
 
-- [Slides](https://docs.google.com/presentation/d/18XWft6o3QgnJ7plQR1kEPUMR5AGg0GFQ0xE7nBB4M48/edit?usp=sharing){:target="_blank"}
+- [Slides](https://docs.google.com/presentation/d/18XWft6o3QgnJ7plQR1kEPUMR5AGg0GFQ0xE7nBB4M48/edit?usp=sharing){:target="_blank"} ([PDF](https://drive.google.com/file/d/1vz6FHlS77C6ZdyfZLeEjlF8Jl6hX7MJL/view?usp=sharing){:target="_blank"})
 
 {% comment %}
 - [Recording](https://bcourses.berkeley.edu/courses/1526710/pages/lecture-1-course-overview){:target="_blank"}
