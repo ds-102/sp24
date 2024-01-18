@@ -4,7 +4,7 @@ ref: 'week-1'
 ---
 
 Jan 16
-: **Lecture**{: .label .label-lecture } Course Overview
+: **Lecture**{: .label .label-lecture } [Course Overview]({{ site.baseurl }}/lecture/lec01)
 
 Jan 18
 : **Lecture**{: .label .label-lecture } Binary Decision-Making
