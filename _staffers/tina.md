@@ -1,10 +1,11 @@
 ---
-name: Tina Chen
+name: Zizhuo (Tina) Chen
 team: Staff
 role: TA
-email: czz129@berkeley.edu
+email: czz129
 website: 
 photo: 
-pronouns:
+pronouns: she/her
 ---
 
+Hi Everyone! I’am Tina, a senior majoring DS + Stats. Feel free to reach out to me for any questions! :)))
