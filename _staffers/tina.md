@@ -1,5 +1,5 @@
 ---
-name: Zizhuo (Tina) Chen
+name: Tina Chen
 team: Staff
 role: TA
 email: czz129
