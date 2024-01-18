@@ -40,7 +40,7 @@ Please consult the [Resources]({{ site.baseurl }}/resources) page for additional
 ### Lectures
 {:.no_toc}
 
-Lectures will be held in-person **Tuesdays and Thursdays** from **3:30 - 5pm in Li Ka Shing 245**. Recordings will be made available on the course website within 24 hours.
+Lectures will be held in-person **Tuesdays and Thursdays** from **12:30 PM - 2 PM in Li Ka Shing 245**. Recordings will be made available on the course website within 24 hours.
 
 ### Discussion
 {:.no_toc}
