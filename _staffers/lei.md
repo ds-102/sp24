@@ -4,7 +4,7 @@ team: Staff
 role: TA
 email: leishi
 website: 
-photo: 
+photo: lei.jpg
 pronouns: he/him
 ---
 

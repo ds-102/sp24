@@ -4,7 +4,7 @@ team: Staff
 role: TA
 email: ziyiw28
 website: 
-photo: 
+photo: kitty.jpg
 pronouns: she/her
 ---
 

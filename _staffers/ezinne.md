@@ -4,7 +4,7 @@ team: Staff
 role: TA
 email: ezinne_nwankwo
 website: 
-photo: 
+photo: ezinne.jpg
 pronouns: she/her
 ---
 

@@ -4,7 +4,7 @@ team: Staff
 role: TA
 email: zyding
 website: 
-photo: 
+photo: ding.jpg
 pronouns: he/him
 ---
 

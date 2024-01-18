@@ -4,7 +4,7 @@ team: Staff
 role: Tutor
 email: bellachang
 website: 
-photo: 
+photo: bella.jpg
 pronouns: she/her
 ---
 

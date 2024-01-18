@@ -4,7 +4,7 @@ team: Staff
 role: Tutor
 email: brucexu
 website: 
-photo: 
+photo: bruce.jpg
 pronouns: he/him
 ---
 

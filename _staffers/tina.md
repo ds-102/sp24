@@ -4,7 +4,7 @@ team: Staff
 role: TA
 email: czz129
 website: 
-photo: 
+photo: tina.jpg
 pronouns: she/her
 ---
 
