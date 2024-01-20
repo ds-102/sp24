@@ -8,3 +8,7 @@ Jan 16
 
 Jan 18
 : **Lecture**{: .label .label-lecture } [Binary Decision-Making II](lecture/lec02)
+
+Jan 19
+: **Homework**{: .label .label-hw } [Homework 1](https://data102.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-102%2Fsp24-materials&urlpath=lab%2Ftree%2Fsp24-materials%2Fhw%2Fhw1%2Fhw1.pdf&branch=main) (due Feb 2 **5 PM**)
+: **Lab 1**{: .label .label-lab } [Labe 1](https://data102.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-102%2Fsp24-materials&urlpath=lab%2Ftree%2Fsp24-materials%2Flab%2Flab01%2Flab01.ipynb&branch=main) (due Jan 24 **5 PM**)
