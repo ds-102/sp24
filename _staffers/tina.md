@@ -8,4 +8,4 @@ photo: tina.jpg
 pronouns: she/her
 ---
 
-Hi Everyone! I’am Tina, a senior majoring DS + Stats. Feel free to reach out to me for any questions! :)))
+Hi Everyone! I’m Tina, a senior majoring DS + Stats. Feel free to reach out to me for any questions! :)))
