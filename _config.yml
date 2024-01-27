@@ -34,8 +34,8 @@ aux_links:
     - 'https://edstem.org/us/courses/52891'
   Gradescope:
     - 'https://www.gradescope.com/courses/711377'
-#  Extenuating Circumstances:
-#    - 'https://docs.google.com/forms/d/e/1FAIpQLSerF4KsagLRLNPIfRnHPT1B_RuGRRAAl2CBdLz-tvMY2mbjYQ/viewform?usp=sf_link'
+  Extenuating Circumstances:
+    - 'https://forms.gle/Pf78cwJ9UPiFTgNR6'
 
 # Collections for website data
 collections:
