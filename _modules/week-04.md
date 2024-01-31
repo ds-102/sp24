@@ -1,5 +1,6 @@
 ---
 title: 'Week 4: Graphical Models and Sampling'
+ref: 'week-4'
 ---
 
 Feb 6

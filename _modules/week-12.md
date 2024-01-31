@@ -1,5 +1,6 @@
 ---
 title: 'Week 12: Bandits and Reinforcement Learning'
+ref: 'week-12'
 ---
 
 Apr 2

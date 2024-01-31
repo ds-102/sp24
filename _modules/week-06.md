@@ -1,5 +1,6 @@
 ---
 title: 'Week 6: Generalized Linear Models'
+ref: 'week-6'
 ---
 
 Feb 20

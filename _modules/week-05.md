@@ -1,5 +1,6 @@
 ---
 title: 'Week 5: Sampling and Generalized Linear Models'
+ref: 'week-5'
 ---
 
 Feb 13

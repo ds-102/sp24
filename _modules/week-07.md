@@ -1,5 +1,6 @@
 ---
 title: 'Week 7: Nonparametric Methods'
+ref: 'week-7'
 ---
 
 Feb 27

@@ -1,5 +1,6 @@
 ---
 title: 'Week 14: Regression and Privacy'
+ref: 'week-14'
 ---
 
 Apr 16

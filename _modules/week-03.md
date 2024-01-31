@@ -1,5 +1,6 @@
 ---
 title: 'Week 3: The Bayesian Framework'
+ref: 'week-3'
 ---
 
 Jan 29

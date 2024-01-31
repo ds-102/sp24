@@ -1,5 +1,6 @@
 ---
 title: 'Week 8: Neural Networks and Causal Inference'
+ref: 'week-8'
 ---
 
 Mar 5

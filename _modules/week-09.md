@@ -1,5 +1,6 @@
 ---
 title: 'Week 9: Causal Inference'
+ref: 'week-9'
 ---
 
 Mar 12

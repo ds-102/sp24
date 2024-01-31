@@ -1,5 +1,6 @@
 ---
 title: 'Week 2: Multiple Testing'
+ref: 'week-2'
 ---
 
 Jan 22
