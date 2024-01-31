@@ -8,3 +8,4 @@ Apr 16
 
 Apr 18
 : **Lecture**{: .label .label-lecture } Differential Privacy
+: **Vitamin**{: .label .label-vit } Vitamin 12 (due Apr 21 11:59 PM)
