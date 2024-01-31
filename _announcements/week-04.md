@@ -4,7 +4,8 @@ week: 4
 date: 2024-02-05
 ---
 
-- Homework 1 is due this Friday at **5PM**. 
-    - Homework Party will be Tuesday 5-7PM in Warren 101B Section A.
-    - Office hours are updated. Check the [calendar](calendar) page for the most up-to-date schedule.
-- Lab 2 is released and due Wednesday 11:59PM.
+- [Homework 2]() has been released. It is due next Friday, 2/16, at **5 PM**.
+- [Lab 3](https://data102.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-102%2Fsp24-materials&urlpath=lab%2Ftree%2Fsp24-materials%2Flab%2Flab03%2Flab03.ipynb&branch=main) has been released. It is due this Wednesday, 2/7, at **5 PM**. See the [calendar](calendar) for the schedule of lab sections.
+- [Discussion 3]() will be held on Wednesday, 2/7. See the [calendar](calendar) for the schedule of discussion sections.
+- [Homework 1](https://data102.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-102%2Fsp24-materials&urlpath=lab%2Ftree%2Fsp24-materials%2Fhw%2Fhw1%2Fhw1.pdf&branch=main) is due this Friday, 2/2, at **5 PM**.
+{% comment %}- [Vitamin 4]() has been released. It is due this Sunday, 2/4, at 11:59 PM. {% endcomment %}
