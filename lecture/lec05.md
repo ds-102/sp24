@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Lecture 4 - Hypothesis Testing II
+title: Lecture 5 - Decision Theory
 nav_exclude: true
 ---
 
-# Lecture 4 - Hypothesis Testing II
+# Lecture 5 - Decision Theory
 
 Presented by Alexandar Strang
 
