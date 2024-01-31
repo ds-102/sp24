@@ -12,3 +12,6 @@ Apr 3
 Apr 4
 : **Lecture**{: .label .label-lecture } Reinforcement Learning I
 : **Vitamin**{: .label .label-vit } Vitamin 10 (due Apr 7 11:59 PM)
+
+Apr 5
+: **Homework**{: .label .label-hw } Homework 6 (due Apr 26 at **5 PM**)

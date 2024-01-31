@@ -11,3 +11,6 @@ Mar 20
 
 Mar 21
 : **Lecture**{: .label .label-lecture } Bandits I
+
+Mar 22
+: **Homework**{: .label .label-hw } Homework 5 (due Apr 5 at **5 PM**)
