@@ -5,4 +5,6 @@ date: 2024-01-22
 ---
 
 - Lab and Discussion sections start this week! Check the [calendar](calendar) page for times and locations. 
-- Fill out the [Exam Conflict Form](https://edstem.org/us/courses/42657/discussion/3361044) if one of the exams conflict with your other commitments.
+- [Lab 1](https://data102.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-102%2Fsp24-materials&urlpath=lab%2Ftree%2Fsp24-materials%2Fhw%2Fhw1%2Fhw1.pdf&branch=main) has been released. It is due this Wednesday, 1/24, at **5 PM**.
+- [Homework 1](https://data102.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-102%2Fsp24-materials&urlpath=lab%2Ftree%2Fsp24-materials%2Fhw%2Fhw1%2Fhw1.pdf&branch=main) has been released. It is due next Friday, 2/2, at **5 PM**.
+- [Vitamin 1](https://www.gradescope.com/courses/711377/assignments/3967861/) has been released. It is due this Sunday, 1/27, at 11:59 PM.
