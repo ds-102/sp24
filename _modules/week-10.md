@@ -3,6 +3,9 @@ title: 'Week 10: Concentration and Bandits'
 ref: 'week-10'
 ---
 
+Mar 18
+: **Lab**{: .label .label-lab } Lab 8: Instrumental Variables (due Mar 20 at **5 PM**)
+
 Mar 19
 : **Lecture**{: .label .label-lecture } Concentration Inequalities
 

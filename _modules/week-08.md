@@ -3,6 +3,9 @@ title: 'Week 8: Neural Networks and Causal Inference'
 ref: 'week-8'
 ---
 
+Mar 4
+: **Lab**{: .label .label-lab } Lab 6: GLMs and the Bootstrap (due Mar 6 at **5 PM**)
+
 Mar 5
 : **Lecture 14**{: .label .label-lecture } Neural Networks and Interpretability
 

@@ -3,6 +3,9 @@ title: 'Week 6: Generalized Linear Models'
 ref: 'week-6'
 ---
 
+Feb 19
+: **Lab**{: .label .label-lab } Lab 5: Sampling (due Feb 21 at **5 PM**)
+
 Feb 20
 : **Lecture**{: .label .label-lecture } Model Checking for GLMs
 

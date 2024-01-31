@@ -3,6 +3,9 @@ title: 'Week 12: Bandits and Reinforcement Learning'
 ref: 'week-12'
 ---
 
+Apr 1
+: **Lab**{: .label .label-lab } Lab 9: Unconfoundedness (due Apr 3 at **5 PM**)
+
 Apr 2
 : **Lecture**{: .label .label-lecture } Bandits II
 
