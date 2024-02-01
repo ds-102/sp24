@@ -10,7 +10,7 @@ Jan 30
 : **Lecture**{: .label .label-lecture } [Frequentist vs. Bayesian Decision-Making](lecture/lec05)
 
 Jan 31
-: **Discussion**{: .label .label-disc } [Discussion 2](https://drive.google.com/file/d/13-AnTTaff83boCdlCUomUCGzvVzWtgAw/view?usp=sharing) (Answers)
+: **Discussion**{: .label .label-disc } [Discussion 2](https://drive.google.com/file/d/13-AnTTaff83boCdlCUomUCGzvVzWtgAw/view?usp=sharing) ([Answers](https://drive.google.com/file/d/1mH9qFOBvOzZIGGg9O-O9B0dS1pav1SEt/view?usp=sharing))
 
 Feb 1
 : **Lecture**{: .label .label-lecture } Overview of Bayesian Modeling
