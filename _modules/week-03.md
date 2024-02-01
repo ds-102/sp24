@@ -13,7 +13,7 @@ Jan 31
 : **Discussion**{: .label .label-disc } [Discussion 2](https://drive.google.com/file/d/13-AnTTaff83boCdlCUomUCGzvVzWtgAw/view?usp=sharing) ([Answers](https://drive.google.com/file/d/1mH9qFOBvOzZIGGg9O-O9B0dS1pav1SEt/view?usp=sharing))
 
 Feb 1
-: **Lecture**{: .label .label-lecture } Overview of Bayesian Modeling
+: **Lecture**{: .label .label-lecture } [Introduction to Frequentist and Bayesian Modeling](lecture/lec06)
 : **Vitamin**{: .label .label-vit } Vitamin 3 (due Feb 4 at 11:59 PM)
 
 Feb 2
