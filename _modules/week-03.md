@@ -14,7 +14,7 @@ Jan 31
 
 Feb 1
 : **Lecture**{: .label .label-lecture } [Introduction to Frequentist and Bayesian Modeling](lecture/lec06)
-: **Vitamin**{: .label .label-vit } Vitamin 3 (due Feb 4 at 11:59 PM)
+: **Vitamin**{: .label .label-vit } [Vitamin 3](https://www.gradescope.com/courses/711377/assignments/4041475) (due Feb 4 at 11:59 PM)
 
 Feb 2
 : **Homework**{: .label .label-hw } Homework 2 (due Feb 16 at **5 PM**)
