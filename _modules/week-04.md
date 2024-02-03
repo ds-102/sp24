@@ -4,7 +4,7 @@ ref: 'week-4'
 ---
 
 Feb 5
-: **Lab**{: .label .label-lab } Lab 3: Loss and Risk (due Feb 7 at **5 PM**)
+: **Lab**{: .label .label-lab } [Lab 3: Loss and Risk](https://data102.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-102%2Fsp24-materials&urlpath=lab%2Ftree%2Fsp24-materials%2Flab%2Flab03%2Flab03.ipynb&branch=main) (due Feb 7 at **5 PM**)
 
 Feb 6
 : **Lecture**{: .label .label-lecture } Graphical Models
