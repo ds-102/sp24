@@ -10,7 +10,7 @@ Feb 6
 : **Lecture**{: .label .label-lecture } [Bayesian Hierarchical Models](lecture/lec07)
 
 Feb 7
-: **Discussion**{: .label .label-disc } Discussion 3 (Answers)
+: **Discussion**{: .label .label-disc } [Discussion 3](https://drive.google.com/file/d/1qdFNoBHQ3kcDm251D7TaHnnJgBj2fFsF/view?usp=sharing) (Answers)
 
 Feb 8
 : **Lecture**{: .label .label-lecture } Rejection Sampling and Markov Chains
