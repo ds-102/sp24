@@ -13,5 +13,5 @@ Feb 7
 : **Discussion**{: .label .label-disc } [Discussion 3](https://drive.google.com/file/d/1qdFNoBHQ3kcDm251D7TaHnnJgBj2fFsF/view?usp=sharing) (Answers)
 
 Feb 8
-: **Lecture**{: .label .label-lecture } Rejection Sampling and Markov Chains
+: **Lecture**{: .label .label-lecture } [Bayesian Inference with Sampling](lecture/lec08)
 : **Vitamin**{: .label .label-vit } Vitamin 4 (due Feb 11 at 11:59 PM)
