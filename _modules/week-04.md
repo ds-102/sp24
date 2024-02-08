@@ -10,7 +10,7 @@ Feb 6
 : **Lecture**{: .label .label-lecture } [Bayesian Hierarchical Models](lecture/lec07)
 
 Feb 7
-: **Discussion**{: .label .label-disc } [Discussion 3](https://drive.google.com/file/d/1qdFNoBHQ3kcDm251D7TaHnnJgBj2fFsF/view?usp=sharing) ((Answers)[https://drive.google.com/file/d/1g0EJRD5a6RlJ2D_qVKcA3BRObzOzvBc6/view?usp=sharing])
+: **Discussion**{: .label .label-disc } [Discussion 3](https://drive.google.com/file/d/1qdFNoBHQ3kcDm251D7TaHnnJgBj2fFsF/view?usp=sharing) ([Answers](https://drive.google.com/file/d/1g0EJRD5a6RlJ2D_qVKcA3BRObzOzvBc6/view?usp=sharing))
 
 Feb 8
 : **Lecture**{: .label .label-lecture } [Bayesian Inference with Sampling](lecture/lec08)
