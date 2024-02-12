@@ -4,7 +4,7 @@ ref: 'week-5'
 ---
 
 Feb 12
-: **Lab**{: .label .label-lab } [Lab 4: Graphical Models](https://data102.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-102%2Fsp24-materials&urlpath=lab%2Ftree%2Fsp24-materials%2Flab%2Flab04.ipynb&branch=main) (due Feb 14 at **5 PM**)
+: **Lab**{: .label .label-lab } [Lab 4: Graphical Models](https://data102.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-102%2Fsp24-materials&urlpath=lab%2Ftree%2Fsp24-materials%2Flab%2Flab04%2Flab04.ipynb&branch=main) (due Feb 14 at **5 PM**)
 
 Feb 13
 : **Lecture**{: .label .label-lecture } Bayesian Modeling IV: Markov Chain Monte Carlo and Gibbs Sampling
