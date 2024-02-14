@@ -10,7 +10,7 @@ Feb 13
 : **Lecture**{: .label .label-lecture } [Bayesian Modeling IV: Rejection Sampling and Gibbs Sampling](lecture/lec09)
 
 Feb 14
-: **Discussion**{: .label .label-disc } Discussion 4 (Answers)
+: **Discussion**{: .label .label-disc } [Discussion 4](https://drive.google.com/file/d/1iXtBXST-0uAr1ONTEaVUikCr_QBMwkeE/view?usp=sharing) (Answers)
 
 Feb 15
 : **Lecture**{: .label .label-lecture } [Regression and GLMs](lecture/lec10)
