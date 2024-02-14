@@ -14,4 +14,4 @@ Feb 7
 
 Feb 8
 : **Lecture**{: .label .label-lecture } [Bayesian Inference with Sampling](lecture/lec08)
-: **Vitamin**{: .label .label-vit } Vitamin 4 (due Feb 11 at 11:59 PM)
+: **Vitamin**{: .label .label-vit } [Vitamin 4](https://www.gradescope.com/courses/711377/assignments/4074640) (due Feb 11 at 11:59 PM)
