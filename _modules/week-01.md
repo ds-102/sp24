@@ -4,10 +4,10 @@ ref: 'week-1'
 ---
 
 Jan 16
-: **Lecture**{: .label .label-lecture } [Binary Decision-Making I](lecture/lec01)
+: **Lecture**{: .label .label-lecture } [1. Binary Decision-Making I](lecture/lec01)
 
 Jan 18
-: **Lecture**{: .label .label-lecture } [Binary Decision-Making II](lecture/lec02)
+: **Lecture**{: .label .label-lecture } [2. Binary Decision-Making II](lecture/lec02)
 : **Vitamin**{: .label .label-vit } [Vitamin 1](https://www.gradescope.com/courses/711377/assignments/3967861) (due Jan 21 at 11:59 PM)
 
 Jan 19

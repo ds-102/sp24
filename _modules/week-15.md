@@ -7,10 +7,10 @@ Apr 22
 : **Lab**{: .label .label-lab } Lab 12: Differential Privacy (due Apr 24 at **5 PM**)
 
 Apr 23
-: **Lecture**{: .label .label-lecture } Robustness and Generalization
+: **Lecture**{: .label .label-lecture } 25. Robustness and Generalization
 
 Apr 24
 : **Discussion**{: .label .label-disc } Discussion 11 (Answers)
 
 Apr 25
-: **Lecture**{: .label .label-lecture } Course Wrap-Up
+: **Lecture**{: .label .label-lecture } 26. Course Wrap-Up

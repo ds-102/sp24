@@ -10,5 +10,5 @@ Apr 16
 : **Midterm**{: .label .label-exam } Midterm II
 
 Apr 18
-: **Lecture**{: .label .label-lecture } Differential Privacy
+: **Lecture**{: .label .label-lecture } 24. Differential Privacy
 : **Vitamin**{: .label .label-vit } Vitamin 12 (due Apr 21 11:59 PM)
