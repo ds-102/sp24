@@ -14,4 +14,4 @@ Feb 14
 
 Feb 15
 : **Lecture**{: .label .label-lecture } [Regression and GLMs](lecture/lec10)
-: **Vitamin**{: .label .label-vit } Vitamin 5 (due Feb 18 at 11:59 PM)
+: **Vitamin**{: .label .label-vit } [Vitamin 5](https://www.gradescope.com/courses/711377/assignments/4074681) (due Feb 18 at 11:59 PM)
