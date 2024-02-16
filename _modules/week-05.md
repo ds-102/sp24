@@ -10,7 +10,7 @@ Feb 13
 : **Lecture**{: .label .label-lecture } [9. Rejection Sampling and Gibbs Sampling](lecture/lec09)
 
 Feb 14
-: **Discussion**{: .label .label-disc } [Discussion 4](https://drive.google.com/file/d/1iXtBXST-0uAr1ONTEaVUikCr_QBMwkeE/view?usp=sharing) ([Answers](https://drive.google.com/file/d/1iXtBXST-0uAr1ONTEaVUikCr_QBMwkeE/view?usp=sharing))
+: **Discussion**{: .label .label-disc } [Discussion 4](https://drive.google.com/file/d/1iXtBXST-0uAr1ONTEaVUikCr_QBMwkeE/view?usp=sharing) ([Answers](https://drive.google.com/file/d/1W0fsih7Xxf0Ya2YGwlWUoOH2qrRjGg_U/view?usp=sharing))
 
 Feb 15
 : **Lecture**{: .label .label-lecture } [10. Regression and GLMs](lecture/lec10)
