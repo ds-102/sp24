@@ -4,7 +4,7 @@ ref: 'week-6'
 ---
 
 Feb 19
-: **Lab**{: .label .label-lab } Lab 5: Sampling (due Feb 21 at **5 PM**)
+: **Lab**{: .label .label-lab } [Lab 5: Sampling & GLMs](https://data102.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-102%2Fsp24-materials&urlpath=lab%2Ftree%2Fsp24-materials%2Flab%2Flab05%2Flab05.ipynb&branch=main) (due Feb 23 at **5 PM**)
 
 Feb 20
 : **Lecture**{: .label .label-lecture } 11. Model Checking for GLMs
