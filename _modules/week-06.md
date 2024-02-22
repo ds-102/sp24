@@ -10,7 +10,7 @@ Feb 20
 : **Lecture**{: .label .label-lecture } [11. Model Checking for GLMs](lecture/lec11)
 
 Feb 21
-: **Discussion**{: .label .label-disc } [Discussion 5](https://drive.google.com/file/d/1equD0d9sisV00MIYNcAgIj6xFrqtReO1/view?usp=sharing) (Answers)
+: **Discussion**{: .label .label-disc } [Discussion 5](https://drive.google.com/file/d/1equD0d9sisV00MIYNcAgIj6xFrqtReO1/view?usp=sharing) ([Answers](https://drive.google.com/file/d/1LwoPi0p0HenyxMcl_kSPhe7AeRckVFUl/view?usp=drive_link))
 
 Feb 22
 : **Lecture**{: .label .label-lecture } 12. Uncertainty Quantification for GLMs
