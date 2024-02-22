@@ -13,7 +13,7 @@ Feb 21
 : **Discussion**{: .label .label-disc } [Discussion 5](https://drive.google.com/file/d/1equD0d9sisV00MIYNcAgIj6xFrqtReO1/view?usp=sharing) ([Answers](https://drive.google.com/file/d/1LwoPi0p0HenyxMcl_kSPhe7AeRckVFUl/view?usp=drive_link))
 
 Feb 22
-: **Lecture**{: .label .label-lecture } 12. Uncertainty Quantification for GLMs
+: **Lecture**{: .label .label-lecture } [12. Uncertainty Quantification for GLMs](lecture/lec12)
 : **Vitamin**{: .label .label-vit } Vitamin 6 (due Feb 25 at 11:59 PM)
 
 Feb 23
