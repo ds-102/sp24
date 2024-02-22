@@ -4,7 +4,6 @@ week: 6
 date: 2024-02-19
 ---
 
-- Lab 4 is released and due Wednesday 11:59PM.
-- Homework 2 is due this Friday 5:00PM.
-    - Homework Party will be held Tuesday 5-7PM in Warren 101B Section A.
-- Midterm 1 is next week. Check Ed for detailed logistics.
+- Lab 5 has been released. It is due **Friday, 2/23** at 5 PM.
+- Vitamin 6 is due Sunday, 2/25, at 11:59 PM.
+- Midterm 1 is next week on Tuesday, 2/27 from 7 PM - 9 PM. Please see [#245](https://edstem.org/us/courses/52891/discussion/4399175) and [#246](https://edstem.org/us/courses/52891/discussion/4399175) for logistics, scope, and practice.
