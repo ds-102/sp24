@@ -14,7 +14,7 @@ Feb 21
 
 Feb 22
 : **Lecture**{: .label .label-lecture } [12. Uncertainty Quantification for GLMs](lecture/lec12)
-: **Vitamin**{: .label .label-vit } Vitamin 6 (due Feb 25 at 11:59 PM)
+: **Vitamin**{: .label .label-vit } [Vitamin 6](https://www.gradescope.com/courses/711377/assignments/4144859) (due Feb 25 at 11:59 PM)
 
 Feb 23
 : **Homework**{: .label .label-hw } Homework 3 (due 8 Mar at **5 PM**)
