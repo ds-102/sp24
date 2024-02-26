@@ -65,6 +65,10 @@ Data 102 builds on material taught in previous data science courses. You may fin
 * **[Data 100](https://ds100.org/course-notes-su23/)**
 * **[Data 140](http://prob140.org/textbook/content/README.html)**: even if you took one of the other probability prerequisite courses, this book can be a helpful reference.
 
+## Notes from current and previous course staff
+
+* [Notes on Gibbs sampling](https://drive.google.com/file/d/1qpunOYZ1uiphrnKjL1izpInRXe3sAsSv/view) from Shahzar (Spring 2024)
+
 ## Reading Resources
 
 * **[Data 102 Textbook](https://data102.org/ds-102-book/)** Because data science is a relatively new and rapidly evolving discipline there is no single *ideal* textbook for this subject. The instructors are in the process of developing this online textbook for the course, they will be updating the textbook as semester progresses.     
