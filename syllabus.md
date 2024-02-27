@@ -74,7 +74,7 @@ There will be two midterms in this class:
 
 There will **not** be a final exam. 
 
-All exams must be taken in-person. You must sit the midterms at the specified time: if you have a conflict, please contact course staff ASAP at [data102@berkeley.edu](mailto:data102@berkeley.edu). **We will not accept any conflicts after the drop deadline**.
+All exams must be taken in-person. You must sit the midterms at the specified time: if you have a conflict, please contact course staff ASAP at [data102@berkeley.edu](mailto:data102@berkeley.edu). **We will not accept any conflicts after the drop deadline**. If you have extended time accommodations for tests from DSP, please make sure that you have enough available hours around the times of the regularly scheduled exams.
 
 ### Final Project
 {:.no_toc}
