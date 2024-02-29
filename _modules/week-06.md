@@ -17,4 +17,4 @@ Feb 22
 : **Vitamin**{: .label .label-vit } [Vitamin 6](https://www.gradescope.com/courses/711377/assignments/4144859) (due Feb 25 at 11:59 PM)
 
 Feb 23
-: **Homework**{: .label .label-hw } Homework 3 (due 8 Mar at **5 PM**)
+: **Homework**{: .label .label-hw } [Homework 3](https://data102.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-102%2Fsp24-materials&urlpath=lab%2Ftree%2Fsp24-materials%2Fhw%2Fhw3%2Fhw3.pdf&branch=main) (due 8 Mar at **5 PM**)
