@@ -7,7 +7,7 @@ Mar 4
 : **Lab**{: .label .label-lab } Lab 6: GLMs and the Bootstrap (due Mar 6 at **5 PM**)
 
 Mar 5
-: **Lecture**{: .label .label-lecture } 14. Neural Networks and Interpretability
+: **Lecture**{: .label .label-lecture } [14. Neural Networks and Interpretability](lecture/lec14)
 
 Mar 6
 : **Discussion**{: .label .label-disc } Discussion 6 (Answers)
