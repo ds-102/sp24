@@ -9,6 +9,6 @@ nav_exclude: true
 Presented by Ramesh Sridharan
 
 - Required reading - [Statistical Modeling, The Two Cultures, by Leo Breiman](http://cda.psych.uiuc.edu/statistical_learning_course/breiman_two_cultures.pdf) (pp 1-11)
-- Slides
-- Demo
+- [Slides](https://docs.google.com/presentation/d/1QQBbh1UskKHSUp-5rLScBYsUHE_xSOTwdq1BM3Uk_PI/edit?usp=sharing){:target="_blank"} (PDF)
+- [Demo and typed notes](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/sp24-materials&subPath=lecture/lecture14/nns_backprop_autodiff.ipynb){:target="_blank"}
 - Recording
