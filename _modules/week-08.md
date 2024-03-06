@@ -10,7 +10,7 @@ Mar 5
 : **Lecture**{: .label .label-lecture } [14. Neural Networks and Interpretability](lecture/lec14)
 
 Mar 6
-: **Discussion**{: .label .label-disc } Discussion 6 (Answers)
+: **Discussion**{: .label .label-disc } [Discussion 6](https://drive.google.com/file/d/1Sg6hJHVATncwXd5WzOPFH9yglz-CfNRp/view?usp=drivesdk) (Answers)
 
 Mar 7
 : **Lecture**{: .label .label-lecture } 15. Causal Inference I: Association and Causation
