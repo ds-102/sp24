@@ -5,5 +5,3 @@ date: 2024-03-04
 ---
 
 - Congratulations on finishing Midterm 1!
-- Lab 6 is released and due Wednesday, 10/11 at 11:59PM.
-- Homework 3 is released and due Friday, 10/20 at 5PM.
