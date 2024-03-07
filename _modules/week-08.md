@@ -13,7 +13,7 @@ Mar 6
 : **Discussion**{: .label .label-disc } [Discussion 6](https://drive.google.com/file/d/1Sg6hJHVATncwXd5WzOPFH9yglz-CfNRp/view?usp=drivesdk) (Answers)
 
 Mar 7
-: **Lecture**{: .label .label-lecture } 15. Causal Inference I: Association and Causation
+: **Lecture**{: .label .label-lecture } [15. Causal Inference I: Association and Causation](lecture/lec15)
 : **Vitamin**{: .label .label-vit } Vitamin 8 (due Mar 10 11:59 PM)
 
 Mar 8
