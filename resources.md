@@ -17,7 +17,7 @@ Jump to:
 
 ## Exam Resources
 
-| Semester | Midterm (1) | Midterm 2 | Final |
+| Semester | Midterm 1 | Midterm 2 | Final |
 | -- | -- | -- | -- |
 | Spring 2024 | [Exam]({{ site.baseurl }}/assets/exams/midterm_1/sp24_mt1.pdf) ([Solutions]({{ site.baseurl }}/assets/exams/midterm_1/sp24_mt1_sol.pdf)) | | |
 | Fall 2023 | [Exam]({{ site.baseurl }}/assets/exams/midterm_1/fa23_mt1.pdf) ([Solutions]({{ site.baseurl }}/assets/exams/midterm_1/fa23_mt1_sol.pdf)) |[Exam]({{ site.baseurl }}/assets/exams/midterm_2/fa23_mt2.pdf) ([Solutions](https://drive.google.com/file/d/1A4QUNqItI31id6Zl7nUfC-FZybTzXbm1/view?usp=sharing)) | |
