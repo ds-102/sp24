@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Lecture 15 - Causal Inference I: Problems with Association
+title: Lecture 15 - Causal Inference I
 nav_exclude: true
 ---
 
