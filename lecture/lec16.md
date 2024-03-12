@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Lecture 15 - Causal Inference I
+title: Lecture 16 - Causal Inference II
 nav_exclude: true
 ---
 
-# Lecture 16 - Causal Inference I: Problems with Association
+# Lecture 16 - Causal Inference II: Randomized Experiments
 
 Presented by Alexander Strang
 
