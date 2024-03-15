@@ -14,7 +14,7 @@ Mar 20
 
 Mar 21
 : **Lecture**{: .label .label-lecture } 19. Bandits I
-: : **Vitamin**{: .label .label-vit } Vitamin 9 (due Mar 31 11:59 PM)
+: **Vitamin**{: .label .label-vit } Vitamin 9 (due Mar 31 11:59 PM)
 
 Mar 22
 : **Homework**{: .label .label-hw } Homework 5 (due Apr 5 at **5 PM**)
