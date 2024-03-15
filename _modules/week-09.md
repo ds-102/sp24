@@ -10,7 +10,7 @@ Mar 12
 : **Lecture**{: .label .label-lecture } [16. Causal Inference II: Randomized Experiments](lecture/lec16)
 
 Mar 13
-: **Discussion**{: .label .label-disc } [Discussion 7](https://drive.google.com/file/d/1FlW6zVvDPEBaQ7nqyN9IcjpaPGXmec42/view?usp=share_link) (Answers)
+: **Discussion**{: .label .label-disc } [Discussion 7](https://drive.google.com/file/d/1FlW6zVvDPEBaQ7nqyN9IcjpaPGXmec42/view?usp=share_link) ([Answers](https://drive.google.com/file/d/13h27NLRpyj3r7K1T0s_p_1jowdnCp63t/view?usp=share_link))
 
 Mar 14
 : **Lecture**{: .label .label-lecture } 17. Causal Inference III: Observational Studies
