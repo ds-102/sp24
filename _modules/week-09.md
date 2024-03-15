@@ -13,5 +13,5 @@ Mar 13
 : **Discussion**{: .label .label-disc } [Discussion 7](https://drive.google.com/file/d/1FlW6zVvDPEBaQ7nqyN9IcjpaPGXmec42/view?usp=share_link) ([Answers](https://drive.google.com/file/d/13h27NLRpyj3r7K1T0s_p_1jowdnCp63t/view?usp=share_link))
 
 Mar 14
-: **Lecture**{: .label .label-lecture } 17. Causal Inference III: Observational Studies
+: **Lecture**{: .label .label-lecture } [17. Causal Inference III: Observational Studies](lecture/lec17)
 : **Vitamin**{: .label .label-vit } Vitamin 9 (due Mar 17 11:59 PM)
