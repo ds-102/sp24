@@ -14,4 +14,4 @@ Mar 13
 
 Mar 14
 : **Lecture**{: .label .label-lecture } [17. Causal Inference III: Observational Studies](lecture/lec17)
-: **Vitamin**{: .label .label-vit } Vitamin 9 (due Mar 17 11:59 PM)
+: **Vitamin**{: .label .label-vit } [Vitamin 8](https://www.gradescope.com/courses/711377/assignments/4236361) (due Mar 17 11:59 PM)
