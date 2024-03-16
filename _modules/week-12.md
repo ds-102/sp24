@@ -4,7 +4,7 @@ ref: 'week-12'
 ---
 
 Apr 1
-: **Lab**{: .label .label-lab } Lab 9: Unconfoundedness (due Apr 3 at **5 PM**)
+: **Lab**{: .label .label-lab } Lab 9: Instrumental variables (due Apr 3 at **5 PM**)
 
 Apr 2
 : **Lecture**{: .label .label-lecture } 20. Bandits II
