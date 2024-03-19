@@ -8,5 +8,5 @@ nav_exclude: true
 
 Presented by Alexander Strange
 
-- [Notes](){:target="_blank"}
+- Notes: [Blank](https://drive.google.com/file/d/1wH5GHILblP1bRUZrVWIjCOD1RXoKYZhL/view?usp=drive_link){:target="_blank"}
 - [Recording]
