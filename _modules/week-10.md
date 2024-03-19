@@ -7,7 +7,7 @@ Mar 18
 : **Lab**{: .label .label-lab } [Lab 8: Unconfoundedness](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-102%2Fsp24-materials&urlpath=tree%2Fsp24-materials%2Flab%2Flab08%2Flab08.ipynb&branch=main) (due Mar 20 at **5 PM**)
 
 Mar 19
-: **Lecture**{: .label .label-lecture } 18. Concentration Inequalities
+: **Lecture**{: .label .label-lecture } [18. Concentration Inequalities](lecture/lec18)
 
 Mar 20
 : **Discussion**{: .label .label-disc } Discussion 8 (Answers)
