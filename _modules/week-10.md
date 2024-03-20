@@ -10,7 +10,7 @@ Mar 19
 : **Lecture**{: .label .label-lecture } [18. Concentration Inequalities](lecture/lec18)
 
 Mar 20
-: **Discussion**{: .label .label-disc } Discussion 8 (Answers)
+: **Discussion**{: .label .label-disc } [Discussion 8](https://drive.google.com/file/d/15rJld006goZUgvwImmtmhnOqst7HwovA/view?usp=sharing) (Answers)
 
 Mar 21
 : **Lecture**{: .label .label-lecture } 19. Bandits I
