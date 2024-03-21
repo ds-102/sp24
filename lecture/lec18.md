@@ -8,5 +8,5 @@ nav_exclude: true
 
 Presented by Alexander Strang
 
-- Notes: [Blank](https://drive.google.com/file/d/1wH5GHILblP1bRUZrVWIjCOD1RXoKYZhL/view?usp=drive_link){:target="_blank"}
+- Notes: [Blank](https://drive.google.com/file/d/1wH5GHILblP1bRUZrVWIjCOD1RXoKYZhL/view?usp=drive_link){:target="_blank"}, [Full](https://drive.google.com/file/d/1RC-BjSEDaKxYbdRTlKjqwkKx3nB5VGCI/view?usp=drive_link){:target="_blank"}
 - [Recording](https://bcourses.berkeley.edu/courses/1532439/pages/lecture-18-concentration-inequalities)
