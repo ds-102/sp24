@@ -13,7 +13,7 @@ Mar 20
 : **Discussion**{: .label .label-disc } [Discussion 8](https://drive.google.com/file/d/15rJld006goZUgvwImmtmhnOqst7HwovA/view?usp=sharing) (Answers)
 
 Mar 21
-: **Lecture**{: .label .label-lecture } 19. Bandits I
+: **Lecture**{: .label .label-lecture } [19. Bandits I](lecture/lec19)
 : **Vitamin**{: .label .label-vit } Vitamin 9 (due Mar 31 11:59 PM)
 
 Mar 22
