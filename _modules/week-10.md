@@ -17,4 +17,4 @@ Mar 21
 : **Vitamin**{: .label .label-vit } [Vitamin 9](https://www.gradescope.com/courses/711377/assignments/4262883) (due Mar 31 11:59 PM)
 
 Mar 22
-: **Homework**{: .label .label-hw } Homework 5 (due Apr 5 at **5 PM**)
+: **Homework**{: .label .label-hw } [Homework 5](http://data102.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-102%2Fsp24-materials&urlpath=lab%2Ftree%2Fsp24-materials%2Fhw%2Fhw5%2FHW5.pdf&branch=main) (due Apr 5 at **5 PM**)
