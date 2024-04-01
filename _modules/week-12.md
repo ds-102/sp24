@@ -4,7 +4,7 @@ ref: 'week-12'
 ---
 
 Apr 1
-: **Lab**{: .label .label-lab } Lab 9: Instrumental variable (due Apr 3 at **5 PM**)
+: **Lab**{: .label .label-lab } [Lab 9: Instrumental variable](http://data102.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-102%2Fsp24-materials&urlpath=lab%2Ftree%2Fsp24-materials%2Flab%2Flab09%2Flab09.ipynb&branch=main) (due Apr 3 at **5 PM**)
 
 Apr 2
 : **Lecture**{: .label .label-lecture } 20. Bandits II
