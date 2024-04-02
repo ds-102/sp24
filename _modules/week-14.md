@@ -12,3 +12,6 @@ Apr 16
 Apr 18
 : **Lecture**{: .label .label-lecture } 24. Differential Privacy
 : **Vitamin**{: .label .label-vit } Vitamin 12 (due Apr 21 11:59 PM)
+
+Apr 19
+: **Homework**{: .label .label-hw } Homework 6 (due Apr 26 at **5 PM**)
