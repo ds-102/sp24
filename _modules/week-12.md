@@ -10,7 +10,7 @@ Apr 2
 : **Lecture**{: .label .label-lecture } [20. Bandits II](lecture/lec20)
 
 Apr 3
-: **Discussion**{: .label .label-disc } Discussion 9 (Answers)
+: **Discussion**{: .label .label-disc } [Discussion 9](https://drive.google.com/file/d/1GAf-Xb2euWnQnbfFjURKLYiHa-x_FajJ/view?usp=share_link) (Answers)
 
 Apr 4
 : **Lecture**{: .label .label-lecture } 21. Reinforcement Learning I
