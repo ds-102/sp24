@@ -13,5 +13,5 @@ Apr 3
 : **Discussion**{: .label .label-disc } [Discussion 9](https://drive.google.com/file/d/1GAf-Xb2euWnQnbfFjURKLYiHa-x_FajJ/view?usp=share_link) [(Answers)](https://drive.google.com/file/d/1RZWpGsXAawChSwoqGf4RzjOP6sRI0EBP/view?usp=share_link)
 
 Apr 4
-: **Lecture**{: .label .label-lecture } 21. Reinforcement Learning I
+: **Lecture**{: .label .label-lecture } [21. Reinforcement Learning I](lecture/lec21)
 : **Vitamin**{: .label .label-vit } Vitamin 10 (due Apr 7 11:59 PM)
