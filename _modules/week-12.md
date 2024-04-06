@@ -14,4 +14,4 @@ Apr 3
 
 Apr 4
 : **Lecture**{: .label .label-lecture } [21. Reinforcement Learning I](lecture/lec21)
-: **Vitamin**{: .label .label-vit } Vitamin 10 (due Apr 7 11:59 PM)
+: **Vitamin**{: .label .label-vit } [Vitamin 10](https://www.gradescope.com/courses/711377/assignments/4324125/) (due Apr 7 11:59 PM)
