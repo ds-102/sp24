@@ -10,7 +10,7 @@ Apr 9
 : **Lecture**{: .label .label-lecture } [22. Reinforcement Learning II](lecture/lec22)
 
 Apr 10
-: **Discussion**{: .label .label-disc } [Discussion 10](https://drive.google.com/file/d/1TAtzkn99T2YBiKMLLOiy0r5edeQkOalr/view?usp=drive_link)(Answers)
+: **Discussion**{: .label .label-disc } [Discussion 10](https://drive.google.com/file/d/1TAtzkn99T2YBiKMLLOiy0r5edeQkOalr/view?usp=drive_link)[(Answers)](https://drive.google.com/file/d/1YnE-CRjI9MGvyQNdecFqiUbYc-VFc7kb/view?usp=drive_link)
 
 Apr 11
 : **Lecture**{: .label .label-lecture } [23. Monte Carlo Tree Search](lecture/lec23)
