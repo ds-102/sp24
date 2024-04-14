@@ -14,5 +14,5 @@ Apr 10
 
 Apr 11
 : **Lecture**{: .label .label-lecture } [23. Monte Carlo Tree Search](lecture/lec23)
-: **Vitamin**{: .label .label-vit } Vitamin 11 (due Apr 14 11:59 PM)
+: **Vitamin**{: .label .label-vit } [Vitamin 11](https://www.gradescope.com/courses/711377/assignments/4358486) (due Apr 15 11:59 PM)
 
