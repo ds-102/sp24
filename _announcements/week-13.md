@@ -4,5 +4,6 @@ week: 13
 date: 2024-04-08
 ---
 
-- Midterm 2 is Tuesday, Nov 14th. You should've received your seating assignment via email.
-- Some schedule changes have been made for the week, check [#425](https://edstem.org/us/courses/42657/discussion/3814268) and the [calendar](calendar) for details.
+- [Lab 10](http://data102.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-102%2Fsp24-materials&urlpath=lab%2Ftree%2Fsp24-materials%2Flab%2Flab10%2Flab10.ipynb&branch=main) has been released and is due Wednesday, April 10th at 5 PM.
+- [Vitamin 11](https://www.gradescope.com/courses/711377/assignments/4358486) is due Sunday, April 15th at 11:59 PM.
+- Midterm 2 is next Tuesday, 4/16, from 7 PM - 9 PM.
