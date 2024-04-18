@@ -1,5 +1,5 @@
 ---
-title: 'Week 14: Regression and Privacy'
+title: 'Week 14: Midterm II and Privacy'
 ref: 'week-14'
 ---
 
@@ -10,7 +10,7 @@ Apr 16
 : **Midterm**{: .label .label-exam } Midterm II
 
 Apr 18
-: **Lecture**{: .label .label-lecture } 24. Differential Privacy
+: **Lecture**{: .label .label-lecture } 24. [Privacy in Machine Learning](lecture/lec24)
 : **Vitamin**{: .label .label-vit } Vitamin 12 (due Apr 21 11:59 PM)
 
 Apr 19
