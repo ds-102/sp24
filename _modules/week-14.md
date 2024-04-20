@@ -11,7 +11,7 @@ Apr 17
 
 Apr 18
 : **Lecture**{: .label .label-lecture } 24. [Privacy in Machine Learning](lecture/lec24)
-: **Vitamin**{: .label .label-vit } Vitamin 12 (due Apr 21 11:59 PM)
+: **Vitamin**{: .label .label-vit } [Vitamin 12](https://www.gradescope.com/courses/711377/assignments/4387338) (due Apr 21 11:59 PM)
 
 Apr 19
 : **Homework**{: .label .label-hw } Homework 6 (due Apr 26 at **5 PM**)
