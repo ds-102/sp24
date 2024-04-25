@@ -13,4 +13,4 @@ Apr 24
 : **Discussion**{: .label .label-disc } [Discussion 11](https://drive.google.com/file/d/1hlQWxHpuvjPXOk40lXe2QQTUncUxKz3a/view?usp=drive_link) [(Answers)](https://drive.google.com/file/d/1NrR_RISoIiPOzO29FxD1EbhYRrGi0PWu/view?usp=drive_link) 
 
 Apr 25
-: **Lecture**{: .label .label-lecture } 26. Course Wrap-Up
+: **Lecture**{: .label .label-lecture } 26. [Course Wrap-Up](lecture/lec26)
